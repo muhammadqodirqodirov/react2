@@ -4,7 +4,6 @@ import logo from "../assets/digital_ocean.svg";
 import facebook from "../assets/Facebook.svg";
 import twitter from "../assets/Twiter.svg";
 import youtube from "../assets/youtube.svg";
-import instagram from "../assets/instagram.svg";
 
 export const Footer = () => {
   return (
