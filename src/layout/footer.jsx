@@ -69,11 +69,7 @@ export const Footer = () => {
             <img src={youtube} alt="youtube" />
           </a>
         </li>
-        <li className="footer__end-item">
-          <a className="footer__end-link4" href="#">
-            <img src={instagram} alt="instagram" />
-          </a>
-        </li>
+        
       </ul>
       <form method="post">
         <button className="footer__end-btn2">

@@ -1,5 +1,4 @@
 import React from "react";
-import { Layout } from "../../layout/layout";
 import { Container } from "../../components/UI";
 import first from "../../assets/first_img.png"
 export const About = () =>{
